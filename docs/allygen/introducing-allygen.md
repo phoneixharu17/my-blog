@@ -5,6 +5,9 @@ Allygens still have a tail.
 They have many unique features,that vary from one to the other.
 Some examples are poisonous stingers at the end of their tail, the ability to shoot fire from their palms, breathing undewater, unrealistic speed and so much more.
 
+![Orbiter](allgen-orbiter.jpg)
+![Predator](./allygen-predator.jpg)
+
 Sincerely,<br/>
 Ajith Thuraiman<br/>
 (Creator of the Allygen and Seragens)<br/>
